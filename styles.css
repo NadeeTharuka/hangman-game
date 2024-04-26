@@ -1,0 +1,22 @@
+.container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#wordContainer, #guessesLeft, #letters, #message {
+    margin-bottom: 20px;
+}
+
+#guessInput {
+    width: 30px;
+}
+
+#letters span {
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
